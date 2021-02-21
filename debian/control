@@ -1,0 +1,10 @@
+Source: rmtfs
+Maintainer: venji10 <venji10@riseup.net>
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 9)
+
+Package: rmtfs
+Architecture: any
+Depends: ${shlibs:Depends} ${misc:Depends}
+Description: rmtfs
